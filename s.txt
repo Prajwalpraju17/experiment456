@@ -3,5 +3,6 @@ int main()
 {
 int a,b,difference;
 difference=a-b;
+printf("after substraction");
 printf(difference);
 }
